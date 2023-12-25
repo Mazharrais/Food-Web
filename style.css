@@ -55,7 +55,7 @@
     font-size: 12px;
  }
 
- .dish-card>div>div>a {
+ .dish-card>div>div>div>a {
     font-size: 12px;
     height: fit-content;
  }
