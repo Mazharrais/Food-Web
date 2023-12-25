@@ -12,3 +12,26 @@
     background-color: #ff2806;
     border-color: #ff2806;
 }
+
+.btn-primary:active{
+    background-color: #ff2806;
+    border-color: #ff2806;
+    opacity: 0.5;
+}
+
+.btn-outline-primary {
+    border-color: #00ff00;
+    color: #00ff00;
+}
+.btn-outline-primary:hover {
+    background-color: #fff;
+    border-color: #00ff00;
+    color: #00ff00;
+}
+
+.btn-outline-primary:active {
+    background-color: #fff;
+    border-color: #00ff00;
+    color: #00ff00;
+    opacity: 0.5;
+}
