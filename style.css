@@ -35,3 +35,7 @@
     color: #00ff00;
     opacity: 0.5;
 }
+.badge{
+    background-color: #fbe50a !important;
+    color: #000 !important;
+}
