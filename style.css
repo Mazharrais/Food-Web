@@ -59,3 +59,16 @@
     font-size: 12px;
     height: fit-content;
  }
+
+ .qty-btn {
+    background-color: #fff;
+    border: 1px solid #ff2806;
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+ }
